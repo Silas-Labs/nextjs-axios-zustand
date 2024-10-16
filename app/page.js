@@ -14,13 +14,15 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
-            Get started by editing{" "}
+            I have already done the necessary{" "}
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              app/page.js
+              Code...COde..Code
             </code>
             .
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>
+            Now Click on the Deploy Button below to see what i Want you to see.
+          </li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
@@ -32,7 +34,7 @@ export default function Home() {
           >
             <Image
               className="dark:invert"
-              src="https://nextjs.org/icons/vercel.svg"
+              src="https://comfy-crepe-39454f.netlify.app/resources"
               alt="Vercel logomark"
               width={20}
               height={20}
